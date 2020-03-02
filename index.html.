@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
  <body>
-   <h1>The Simpsons</h1>
-   <p>This website will show how the Simpsons is a great show.</p>
- <b>text to bold</b>
+ 	<h1>The Simpsons</h1>
+	<p>This website will show how the Simpsons is a great show.</p>
+ 	<b>text to bold</b>
 	<u>text to underline</u>
  </body>
 </html>
