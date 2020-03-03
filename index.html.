@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
- <body>
- 	<p>
-	<h1<b>text to bold>The Simpsons</b></h1></p>
+<body>
+ 
+<p>
+<h1<b>text to bold>The Simpsons</b></h1></p>
 	
-	<p><u>text to underline</u>This website will show how the Simpsons is a great show.</p>
-	<u>text to unde</u>rline
-	<p><a href="url">link text</a></p>
+<p>
+	
+<u>text to underline</u>This website will show how the Simpsons is a great show.</p>
+<u>text to unde</u>rline
+<p><a href="url">link text</a></p>
 
- </body>
+</body>
 </html>
 	
