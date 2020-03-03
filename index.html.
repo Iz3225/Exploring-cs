@@ -2,11 +2,10 @@
 <html>
  <body>
  	<p>
-	<h1>The Simpsons</h1></p>
+	<h1<b>text to bold>The Simpsons</b></h1></p>
 	
-	<p>This website will show how the Simpsons is a great show.</p>
- 	<b>text to bold</b>
-	<u>text to underline</u>
+	<p><u>text to underline</u>This website will show how the Simpsons is a great show.</p>
+	<u>text to unde</u>rline
 	<p><a href="url">link text</a></p>
 
  </body>
